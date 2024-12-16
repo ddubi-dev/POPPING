@@ -1,7 +1,7 @@
 # Node.js (서버)
 node_modules/
 npm-debug.log
-.env
+*.env
 
 # React (클라이언트)
 client/node_modules/
