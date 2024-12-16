@@ -13,4 +13,4 @@ client/build/
 .idea/
 
 # 폴더 등 설명
-.txt
+*.txt
